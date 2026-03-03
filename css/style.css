@@ -14,8 +14,9 @@ body {
     background-color: var(--bg-color);
     color: var(--text-color);
     width: 80vw;
-    margin: 0 auto;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Oldenburg", serif;
+    font-weight: 400;
+    font-style: normal;
     line-height: 1.6;
 }
 
@@ -120,3 +121,4 @@ footer {
   font-weight: <weight>;
   font-style: normal;
 }
+
