@@ -121,11 +121,11 @@ footer {
 
 }
 
-.quicksand-<uniquifier> {
-  font-family: "Quicksand", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
+.oldenburg-regular {
+  font-family: "Oldenburg", serif;
+  font-weight: 400;
   font-style: normal;
 }
+
 
 
